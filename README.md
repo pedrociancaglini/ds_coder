@@ -2,8 +2,8 @@
 Pedro Ciancaglini's Notebook / Data Science course in CODERHOUSE
 
 Programa del curso
-Clase 1: La necesidad de información en la Industria 4.0
-Clase 2: Introducción a la programación con Python (Parte I)
+Clase 1: La necesidad de información en la Industria 4.0 \n
+Clase 2: Introducción a la programación con Python (Parte I) \n
 Clase 3: Introducción a la programación con Python (Parte II)
 Clase 4: Programación con arrays. Introducción a NumPy
 Clase 5: Introducción a la manipulación de datos con Pandas (Parte I)
